@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "eventinfra-sub", "eventinfra-sub.csproj", "{06301200-52B7-4D8A-988E-B8C75CE84D6C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{06301200-52B7-4D8A-988E-B8C75CE84D6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06301200-52B7-4D8A-988E-B8C75CE84D6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06301200-52B7-4D8A-988E-B8C75CE84D6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06301200-52B7-4D8A-988E-B8C75CE84D6C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B53B9E86-5E2B-4240-B711-566FF061211E}
+	EndGlobalSection
+EndGlobal
